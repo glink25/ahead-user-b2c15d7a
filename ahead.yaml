@@ -7,13 +7,6 @@ subscriptions:
   - locator: github:glink25/ahead-feed-personal-b2c15d7a
     manifestPath: ahead.yaml
     kind: event-feed
-  - locator: github:glink24/ahead-feed-personal-9c88cd41
-    manifestPath: ahead.yaml
-    kind: event-feed
-    priority: 2
-  - locator: github:glink24/ahead-user-9c88cd41
-    manifestPath: ahead.yaml
-    kind: user-data
 favorites:
   - personal-d15c113a-e366-4183-98f1-b118f09805a5
 hidden: []
